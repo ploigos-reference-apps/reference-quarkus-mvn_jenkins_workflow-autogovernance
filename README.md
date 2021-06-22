@@ -1,1 +1,1 @@
-# reference-quarkus-mvn_jenkins_workflow-autogovernance
+replaced by / merged with https://github.com/ploigos-reference-apps/reference-quarkus-mvn
